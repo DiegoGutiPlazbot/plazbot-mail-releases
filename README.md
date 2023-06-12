@@ -1,5 +1,6 @@
 # plazbot-mail-releases
 
 ```
-Diego Gutierrez 
+Dev
+Diego Gutierrez Pineda
 ```
